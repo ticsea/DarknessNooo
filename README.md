@@ -1,12 +1,24 @@
-<div style="text-align:center;">
+<p align="center">
     <img src="https://github.com/ticsea/DarknessNooo/blob/main/src/main/resources/darknessnooo.png" alt="logo" width="300">
-</div>
+</p>
+<hr>
+<p align="center">A Minecraft mod about darkness effect.</p>
+<p align="center">
+    <a href="https://modrinth.com/mod/darkness-nooo">
+        <img src="https://img.shields.io/modrinth/dt/nR5ixNah?label=Modrinth&logo=Modrinth&style=flat-square" alt="Modrinth Downloads">
+    </a>
+    <a href="https://www.curseforge.com/minecraft/mc-mods/darkness-nooo">
+        <img src="https://img.shields.io/curseforge/dt/1358748?style=flat-square&logo=curseforge&label=CurseForge" alt="CurseForge Downloads">
+    </a>
+</p>
 
-[//]: # ([![CurseForge Downloads]&#40;https://img.shields.io/curseforge/dt/1288509?logo=CurseForge&#41;]&#40;https://www.curseforge.com/minecraft/mc-mods/quickpickme&#41;)
-[//]: # ([![Modrinth Downloads]&#40;https://img.shields.io/modrinth/dt/o2A6wa7q?logo=Modrinth&#41;]&#40;https://modrinth.com/mod/o2A6wa7q&#41;)
+This mod focuses solely on removing the visual manifestations of darkness, with retains the darkness state effect.
 
-This is Minecraft 1.20.1 Forge mod,which remove the visual effect of darkness.
+## Feature
+- Eliminate dimmed screed caused by darkness effect.
+- Remove dark fog,no limited vision range.
+- Remove the blurry sky caused by darkness effect.
 
-### **🔹 Lisence**
+## Lisence
 - Feel free to learn from it.
 - non-commercial use allowed.

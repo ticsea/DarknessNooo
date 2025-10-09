@@ -9,6 +9,7 @@ import org.spongepowered.asm.mixin.injection.callback.CallbackInfoReturnable;
 /*Fog Effect
 * 黑暗笼罩效果*/
 
+// learn how to do this function from TweakerMore.
 @Mixin(targets = "net.minecraft.client.renderer.FogRenderer$DarknessFogFunction")
 public abstract class DarknessFogFunctionMixin {
     @Inject(method = "getMobEffect", at = @At("HEAD"), cancellable = true)

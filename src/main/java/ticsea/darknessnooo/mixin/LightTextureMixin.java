@@ -9,6 +9,7 @@ import org.spongepowered.asm.mixin.injection.callback.CallbackInfoReturnable;
 /*Darkness Pulsing
 * 黑暗脉动效果*/
 
+// learn how to do this function from TweakerMore.
 @Mixin(LightTexture.class)
 public abstract class LightTextureMixin {
     @Inject(method = "getDarknessGamma", at = @At("HEAD"), cancellable = true)

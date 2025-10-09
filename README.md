@@ -19,6 +19,6 @@ This mod focuses solely on removing the visual manifestations of darkness, with 
 - Remove dark fog,no limited vision range.
 - Remove the blurry sky caused by darkness effect.
 
-## Lisence
+## License
 - Feel free to learn from it.
 - non-commercial use allowed.

@@ -21,4 +21,7 @@ This mod focuses solely on removing the visual manifestations of darkness, with 
 
 ## License
 - Feel free to learn from it.
-- non-commercial use allowed.
+
+## Acknowledgments
+This project references and is inspired by:
+- Tweakermore(LGPL-3.0): https://github.com/Fallen-Breath/tweakermore  

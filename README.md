@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/ticsea/DarknessNooo/blob/main/src/main/resources/darknessnooo.png" alt="logo" width="300">
+    <img src="src/main/resources/darknessnooo.png" alt="logo" width="300">
 </p>
 <hr>
 <p align="center">A Minecraft mod about darkness effect.</p>

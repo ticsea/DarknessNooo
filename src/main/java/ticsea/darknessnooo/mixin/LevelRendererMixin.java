@@ -9,7 +9,7 @@ import org.spongepowered.asm.mixin.injection.callback.CallbackInfoReturnable;
 
 /*Block Sky Effect
 * 天空遮效果*/
-
+//todo exclusive blight
 @Mixin(LevelRenderer.class)
 public abstract class LevelRendererMixin implements ResourceManagerReloadListener, AutoCloseable {
     @Inject(method = "doesMobEffectBlockSky", at = @At("HEAD"), cancellable = true)

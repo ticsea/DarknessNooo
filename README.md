@@ -20,7 +20,7 @@ This mod focuses solely on removing the visual manifestations of darkness, with 
 - Remove the blurry sky caused by darkness effect.
 
 ## License
-- Feel free to learn from it.
+This project is modified from Tweakermore Mod and follows the original author's license.
 
 ## Acknowledgments
 This project references and is inspired by:

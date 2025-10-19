@@ -10,6 +10,7 @@ import org.spongepowered.asm.mixin.injection.callback.CallbackInfoReturnable;
 /*Fog Effect
 * 黑雾笼罩效果*/
 
+// This project is modified from Tweakermore Mod and follows the original author's license.
 @Mixin(targets = "net.minecraft.client.renderer.FogRenderer$DarknessFogFunction")
 public abstract class DarknessFogFunctionMixin {
 

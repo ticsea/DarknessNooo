@@ -15,7 +15,8 @@ import org.spongepowered.asm.mixin.injection.callback.CallbackInfoReturnable;
 
 /*Block Sky Effect
 * 天空遮效果*/
-//todo exclusive blight
+
+// This project is modified from Tweakermore Mod and follows the original author's license.
 @OnlyIn(Dist.CLIENT)
 @Mixin(LevelRenderer.class)
 public abstract class LevelRendererMixin implements ResourceManagerReloadListener, AutoCloseable {
